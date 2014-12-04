@@ -1,12 +1,12 @@
 Find-Numbers-and-Add
 ====================
-#How many letters?
+##How many letters?
 
 The song below contains a lot of numbers. 
 Write a program that returns the sum of all these numbers.  
 Your solution must be generic, and must work on all texts containing numbers below 1 trillion.  
 
-#The Galaxy Song
+##The Galaxy Song
 
 Just remember that you're standing on a planet that's evolving  
 And revolving at nine hundred miles an hour,  
