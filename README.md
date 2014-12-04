@@ -8,12 +8,9 @@ Your solution must be generic, and must work on all texts containing numbers bel
 
 #The Galaxy Song
 
-Just remember that you're standing on a planet that's evolving
-asdfasdcv
-asdvasdv
-asdvasdv
-And revolving at nine hundred miles an hour,
-That's orbiting at nineteen miles a second, so it's reckoned,
+Just remember that you're standing on a planet that's evolving  
+And revolving at nine hundred miles an hour,  
+That's orbiting at nineteen miles a second, so it's reckoned,  
 A sun that is the source of all our power.
 The sun and you and me and all the stars that we can see
 Are moving at a million miles a day
