@@ -2,8 +2,8 @@ Find-Numbers-and-Add
 ====================
 #How many letters?
 
-The song below contains a lot of numbers. 
-Write a program that returns the sum of all these numbers. 
+The song below contains a lot of numbers.
+Write a program that returns the sum of all these numbers.
 Your solution must be generic, and must work on all texts containing numbers below 1 trillion.
 
 #The Galaxy Song
